@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_300.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_300.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_300.png",
         "selector": "document",
         "fileName": "Entire_document_300.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 39
+          "analysisTime": 40
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_450.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_450.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_450.png",
         "selector": "document",
         "fileName": "Entire_document_450.png",
         "label": "Entire document",
@@ -46,7 +46,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 51
+          "analysisTime": 45
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_600.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_600.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_600.png",
         "selector": "document",
         "fileName": "Entire_document_600.png",
         "label": "Entire document",
@@ -79,7 +79,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_750.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_750.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_750.png",
         "selector": "document",
         "fileName": "Entire_document_750.png",
         "label": "Entire document",
@@ -96,7 +96,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 53
+          "analysisTime": 49
         }
       },
       "status": "pass"
@@ -104,7 +104,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_900.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_900.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_900.png",
         "selector": "document",
         "fileName": "Entire_document_900.png",
         "label": "Entire document",
@@ -121,7 +121,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 112
+          "analysisTime": 91
         }
       },
       "status": "pass"
@@ -129,7 +129,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1050.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_1050.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_1050.png",
         "selector": "document",
         "fileName": "Entire_document_1050.png",
         "label": "Entire document",
@@ -146,7 +146,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 48
+          "analysisTime": 86
         }
       },
       "status": "pass"
@@ -154,7 +154,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1200.png",
-        "test": "../bitmaps_test/20200310-155018/Entire_document_1200.png",
+        "test": "../bitmaps_test/20200310-164454/Entire_document_1200.png",
         "selector": "document",
         "fileName": "Entire_document_1200.png",
         "label": "Entire document",
@@ -171,7 +171,7 @@
             "height": 0
           },
           "misMatchPercentage": "0.00",
-          "analysisTime": 114
+          "analysisTime": 113
         }
       },
       "status": "pass"
