@@ -31,7 +31,7 @@ body {
 .block6 {
   background-color: black; }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 900px) {
   .conteiner {
     grid-template-areas: "block1 block2"; } }
 
